@@ -10,8 +10,6 @@ import org.springframework.web.portlet.bind.annotation.RenderMapping;
 
 
 
-
-
 @Controller("PortletViewController")
 @RequestMapping("VIEW")
 public class PortletViewController {
